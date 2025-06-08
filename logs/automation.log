@@ -1,0 +1,49 @@
+2025-06-08 22:35:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\Desktop\TNS_719\OpenCartV121\master.xml
+
+2025-06-08 22:37:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\Desktop\TNS_719\OpenCartV121\master.xml
+
+2025-06-08 22:38:00 INFO  TC001_AccountRegistrationTest:17 - ****Starting TC001_AccountRegistrationTest  ***** 
+2025-06-08 22:38:00 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.........
+2025-06-08 22:38:00 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link.........
+2025-06-08 22:38:04 INFO  TC001_AccountRegistrationTest:37 - Validating exopected message.......
+2025-06-08 22:38:04 INFO  TC001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2025-06-08 22:38:42 INFO  TC001_AccountRegistrationTest:17 - ****Starting TC001_AccountRegistrationTest  ***** 
+2025-06-08 22:38:42 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.........
+2025-06-08 22:38:42 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link.........
+2025-06-08 22:38:46 INFO  TC001_AccountRegistrationTest:37 - Validating exopected message.......
+2025-06-08 22:38:47 INFO  TC001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2025-06-08 22:38:54 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest *****
+2025-06-08 22:38:55 INFO  TC002_LoginTest:24 - **** Enter Password *****
+2025-06-08 22:38:56 INFO  TC002_LoginTest:27 - **** clicked login *****
+2025-06-08 22:41:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\Desktop\TNS_719\OpenCartV121\master.xml
+
+2025-06-08 22:42:18 INFO  TC001_AccountRegistrationTest:17 - ****Starting TC001_AccountRegistrationTest  ***** 
+2025-06-08 22:42:18 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.........
+2025-06-08 22:42:19 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link.........
+2025-06-08 22:42:23 INFO  TC001_AccountRegistrationTest:37 - Validating exopected message.......
+2025-06-08 22:42:23 INFO  TC001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2025-06-08 22:42:30 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest *****
+2025-06-08 22:42:32 INFO  TC002_LoginTest:24 - **** Enter Password *****
+2025-06-08 22:42:33 INFO  TC002_LoginTest:27 - **** clicked login *****
+2025-06-08 22:43:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\Desktop\TNS_719\OpenCartV121\master.xml
+
+2025-06-08 22:43:46 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest *****
+2025-06-08 22:43:48 INFO  TC002_LoginTest:24 - **** Enter Password *****
+2025-06-08 22:43:48 INFO  TC002_LoginTest:27 - **** clicked login *****
+2025-06-08 23:09:47 INFO  TC001_AccountRegistrationTest:17 - ****Starting TC001_AccountRegistrationTest  ***** 
+2025-06-08 23:09:47 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.........
+2025-06-08 23:09:48 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link.........
+2025-06-08 23:09:52 INFO  TC001_AccountRegistrationTest:37 - Validating exopected message.......
+2025-06-08 23:09:53 INFO  TC001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2025-06-08 23:31:05 INFO  TC001_AccountRegistrationTest:17 - ****Starting TC001_AccountRegistrationTest  ***** 
+2025-06-08 23:31:05 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.........
+2025-06-08 23:31:05 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register Link.........
+2025-06-08 23:31:13 INFO  TC001_AccountRegistrationTest:37 - Validating exopected message.......
+2025-06-08 23:31:13 INFO  TC001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2025-06-08 23:31:26 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest *****
+2025-06-08 23:31:29 INFO  TC002_LoginTest:24 - **** Enter Password *****
+2025-06-08 23:31:30 INFO  TC002_LoginTest:27 - **** clicked login *****
